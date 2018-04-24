@@ -1,0 +1,14 @@
+﻿Build started 6/1/2015 11:23:01 PM.
+     1>Project "C:\Users\Edward_Sony\Desktop\CS-260\binary trees\binary trees\binary trees.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Binary Trees.cpp"
+         Binary Trees.cpp
+     1>c:\users\edward_sony\desktop\cs-260\binary trees\binary trees\binary trees.cpp(347): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Edward_Sony\Desktop\CS-260\binary trees\Debug\binary trees.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Edward_Sony\Desktop\CS-260\binary trees\Debug\binary trees.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Edward_Sony\Desktop\CS-260\binary trees\Debug\binary trees.lib" /MACHINE:X86 "Debug\Binary Trees.obj"
+         binary trees.vcxproj -> C:\Users\Edward_Sony\Desktop\CS-260\binary trees\Debug\binary trees.exe
+     1>Done Building Project "C:\Users\Edward_Sony\Desktop\CS-260\binary trees\binary trees\binary trees.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.03
